@@ -1,6 +1,6 @@
 {
   "name": "npm-check-updates",
-  "version": "2.0.0-alpha.9",
+  "version": "2.0.0-alpha.10",
   "author": "Tomas Junnonen <tomas1@gmail.com>",
   "description": "Find newer versions of dependencies than what your package.json allows",
   "keywords": [
@@ -37,6 +37,7 @@
     "closest-package": "^1.0.0",
     "commander": "^2.8.1",
     "get-stdin-promise": "^0.1.1",
+    "jju": "^1.2.0",
     "lodash": "^3.9.3",
     "npm": "^2.11.1",
     "semver": "^4.3.6",
